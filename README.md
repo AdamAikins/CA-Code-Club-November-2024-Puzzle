@@ -1,9 +1,14 @@
 # Welcome to Columbus Academy's First Code Club Puzzles of the 2024-2025 School Year!
-## **Easy** - Palindrome Phrase Checker
+Completing puzzles to earn points for a prize at the end of the semester!
+**Easy** - 1 point
+**Medium** - 2 points
+**Hard** - 4 points
+And get half the points of the difficulty for each time you complete the puzzle in a different programming language!
+## Easy - Palindrome Phrase Checker
 Write code that determines whether or not a phrase is the same backwards or forwards, ignoring punctuation, spaces, and capitalization
-## **Medium** - Hexadecimal Converter
+## Medium - Hexadecimal Converter
 Write code to convert binary to hexadecimal and back
-## **Hard** - Word Ladder
+## Hard - Word Ladder
 Write code to find the shortest way to change one word to another by changing one letter each step, keeping it as a real word.
 ## Submitting
 Test your code using the tester file for the puzzle
