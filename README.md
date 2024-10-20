@@ -1,2 +1,2 @@
 # CA-Code-Club-November-2024-Puzzle
-November 2024's Puzzle
+Columbus Academy's November 2024 Puzzle
