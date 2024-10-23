@@ -16,6 +16,8 @@ Make sure it is clear what the desired output from the method is.
 
 For solver convenience, print the output of the method after it is called.
 
+Afterwards, you may edit this file to include a problem statement, which may include a fun backstory to the problem. Do not describe what the program will do, as the point of this type of problem is for the solvers to figure that out themselves.
+
 ## As a Solver
 
 ### Compile Main
