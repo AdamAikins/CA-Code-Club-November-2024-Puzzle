@@ -13,7 +13,7 @@ Write code that determines whether or not a phrase is the same backwards or forw
 ## Medium - Hexadecimal Converter
 Write code to convert binary to hexadecimal and back
 ## Hard - Word Ladder
-Write code to find the shortest way to change one word to another by changing one letter each step, keeping it as a real word.
+Write code to find the shortest way to change one word to another by changing one letter each step, keeping it as a real word, returns the number of steps. Return -1 if not possible.
 ## Submitting
 Test your code using the tester file for the puzzle
 
