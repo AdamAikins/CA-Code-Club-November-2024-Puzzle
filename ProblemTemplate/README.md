@@ -2,7 +2,9 @@
 
 ## As a Problemsetter
 
-To tell the tester which files it should use for each test case, change the arrays "inputFiles" and "expectedOutputFiles" so that it contains the right files.
+To tell the tester which files it should use for each test case, change the arrays "inputFiles" and "expectedOutputFiles" so that it contains the right files. 
+
+Afterwards, you may edit this file to include a problem statement, which will detail what the problem is, how input and output will be recieved, and may include a fun backstory to the problem. 
 
 ## As a Solver
 
