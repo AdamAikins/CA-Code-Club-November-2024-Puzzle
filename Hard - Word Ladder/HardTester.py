@@ -8,7 +8,7 @@ if os.path.exists("words.txt"):
                     word = line.strip()
                     list.append(word)
 else:
-    print(f"File '{file_path}' not found!")
+            print(f"File '{file_path}' not found!")
 
 def word_ladder():
   #write code here
