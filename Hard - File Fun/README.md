@@ -4,6 +4,13 @@ Vlad the Viking has written a sentence down, but Bexley has split it across 1000
 
 Help Vlad recover the original sentence!
 
+# Setup
+
+1. Download all the files in this folder.
+2. Unzip Files.zip. Make sure the files end up in the same folder as Main.java.
+3. Compile Main.java
+4. Run Main.java
+
 # Input
 
 Input the original sentence to complete this problem.
