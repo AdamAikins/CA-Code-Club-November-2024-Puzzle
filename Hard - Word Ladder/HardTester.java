@@ -23,6 +23,7 @@ public class HardTester{
         list.add(data);
         set.add(data);
       }
+    scanner.close();
   }
 
   public String[] wordLadder(String a, String b){
