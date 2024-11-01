@@ -6,12 +6,13 @@ public class HardTester{
   private HashSet set;
   private ArrayList list; //both data structures containing the dictionary
   
-  public static main(String[] args){
+  public static main(String[] args) throws Exception {
     HardTester tester=new HardTester();
     System.out.println(tester.wordLadder("Calf", "Lamb")) //[Calf, Caff, Cafe, Came, Lame, Lamb]
   }
 
-  public HardTester(){
+  public HardTester() throws Exception
+  {
     File file=new File("words.txt");
     Scanner scanner= new Scanner(file);
     while (scanner.hasNextLine()) {
