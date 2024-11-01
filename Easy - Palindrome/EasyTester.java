@@ -3,21 +3,24 @@ public class EasyTester{
     boolean res=isPalindrome("racecar");
     System.out.println(res);
     //true
-    res=isPalindrome("codeclub");
+    res=isPalindrome("Codeclub");
     System.out.println(res);
     //false
-    res=isPalindrome("codeedoc");
+    res=isPalindrome("CodeEdoc");
     System.out.println(res);
     //true
     res=isPalindrome("");
     System.out.println(res);
     //true
-    res=isPalindrome("a");
+    res=isPalindrome("A");
     System.out.println(res);
     //true
     res=isPalindrome("yv");
     System.out.println(res);
     //false
+    res=isPalindrome("Was it a car or a cat I saw?");
+    System.out.println(res);
+    //true
   }
 
   public static boolean isPalindrome(String input){
