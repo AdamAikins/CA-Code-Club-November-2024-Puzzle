@@ -18,3 +18,5 @@ Write code to find the shortest way to change one word to another by changing on
 Test your code using the tester file for the puzzle
 
 If your code works, turn it in to [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdgxFJlSLvqHwFpIXU33WUB2Noz3a-a0oFaX46XV62n44-3Gg/viewform?usp=sf_link)
+## Bugs
+If you encounter any bugs or issues with provided code, tell us [here](https://docs.google.com/forms/d/e/1FAIpQLSeGJNWkKE5ZC5QbKiPdybVh0nZ66D-GQVjLsi7sK--_CdbBuA/viewform?usp=sf_link)!
