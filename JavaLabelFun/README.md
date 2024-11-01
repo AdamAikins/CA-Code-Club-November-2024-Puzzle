@@ -40,6 +40,3 @@ The program in Main.java implements a currently unknown method using labels.
 Your task is to get that method to return a value of 20.
 
 DO NOT CHANGE ANY OF THE CODE IN THE METHOD.
-
-Refer to the instructions in the Obfuscation Template for help on how to run
-and pass input to the program.
